@@ -1,0 +1,11 @@
+套件:
+matplotlib
+numpy
+pyqt5
+pyinstaller
+
+GUI 用 qtdesigner 拉，拉完再轉 py 
+
+選擇 dataset，畫出資料點，不同類別的點需用不同方式標記
+輸入 epoch、training rate
+畫出分類線，並印出訓練、測試準確率、鍵結值權重
