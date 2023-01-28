@@ -1,0 +1,5 @@
+matplotlib
+numpy
+pyqt5
+
+GUI 用 qtdesigner 拉，拉完再轉 py 
